@@ -1,1 +1,1 @@
-Odin Project, exercise 1y
+Odin Project, exercise 1a
