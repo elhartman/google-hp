@@ -1,0 +1,159 @@
+body {
+	font-family:arial,sans-serif;
+}
+a {
+	text-decoration:none;
+}
+.tb {
+	width:100%;
+	height:30px;
+}
+.ics {
+	min-width:220px;
+	width:;
+	position:absolute;
+	padding-right:30px;
+	top:7px;
+	right:0px;
+}
+ul {
+	margin-right:125px;
+}
+li {
+	list-style-type:none;
+	display:inline-block;
+	margin-left:11px;
+	margin-right:5px;
+	font-size:13px;
+	color:#666;
+	top:12px;
+}
+/* Begin app-box icon */
+.bs {
+	background-color:#666;
+	width:4px;height:4px;
+	margin-top:2px;
+	margin-left:-2pt;
+}
+.alit {
+	display:inline-block;
+}
+#boxal {
+	position:absolute;
+	right:122px;
+	top:14px;
+}
+/* End app-box icon */
+#sion {
+	width:65px;
+	height:26px;
+	background-color:#4285f4;
+	position:absolute;
+	top:-5px;
+	left:36px;
+	border-radius:2px;
+	border:2px solid #4285f4;
+}
+#sion p {
+	font-weight:bold;
+	font-size:13px;
+	color:#FFF;
+	text-align:center;
+	position:relative;
+	bottom:8px;
+}
+#gicon {
+	width:272px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:198px;
+}
+#soa {
+	width:40%;
+	height:40px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+}
+#search {
+	width:100%;
+	height:40px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+#search:focus {
+	background-color:#fcfcfc;
+}
+#mic {
+	position:absolute;
+	right:30.5%;
+	top:327px;
+	width:24px;
+	height:26px;
+}
+#sic {
+	width:293px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	margin-top:32px;
+	height:36px;
+}
+
+#gsv {
+	width:125px;
+	height:36px;
+	background-color:#f5f5f5;
+	border-radius:2px;
+	display:inline-block;
+	position:static;
+	left:0px;
+}
+#gsfl {
+	width:144px;
+	height:36px;
+	background-color:#f5f5f5;
+	border-radius:2px;
+	display:inline-block;
+	margin-left:3px;
+	position:static;
+	right:0px;
+}
+.gst {
+	text-align:center;
+	color:#757575;
+	font-weight:bold;
+	font-size:13px;
+	position:relative;
+	bottom:3px;
+}
+.gst:hover {
+	color:#000;
+}
+#gsfl:hover, #gsv:hover {
+	border:0.2px solid #000;
+	margin:-1px;
+	color:#000;
+}
+#foot {
+	position:absolute;
+	bottom:0px;
+	width:100%;
+	height:42px;
+	background-color:#F2F2F2;
+}
+.ft {
+	display:inline-block;
+	position:static;
+	margin-right:16px;
+}
+#ftr {
+	position:static;
+	margin-left:16px;
+	right:0px;
+	bottom:1px;
+}
+
